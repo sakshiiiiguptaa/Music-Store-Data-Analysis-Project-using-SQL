@@ -7,15 +7,15 @@ This project leverages SQL to analyze the dataset of an online music store. The 
 
 📊 Project Objectives:
 
- 1   Gain valuable insights into store operations.
+ 1.   Gain valuable insights into store operations.
  
- 2   Understand customer segmentation and interests.
+ 2.   Understand customer segmentation and interests.
  
- 3   Evaluate artist performance and growth.
+ 3.   Evaluate artist performance and growth.
  
- 4   Identify trends and money spent by customers.
+ 4.   Identify trends and money spent by customers.
  
- 5   Answer critical business questions to aid in strategic decision-making.
+ 5.   Answer critical business questions to aid in strategic decision-making.
  
 
 📂 Tables Utilized:
@@ -44,40 +44,40 @@ This project leverages SQL to analyze the dataset of an online music store. The 
 
 📋 Key Queries and Insights:
 
-1    Identified the senior-most employee based on job title.
+1.    Identified the senior-most employee based on job title.
 
-2    Determined which countries generate the most invoices.
+2.    Determined which countries generate the most invoices.
 
-3    Found the top 3 highest invoice totals.
+3.    Found the top 3 highest invoice totals.
 
-4    Identified the city with the best customers to host a promotional Music Festival.
+4.    Identified the city with the best customers to host a promotional Music Festival.
 
-5    Determined the best customer based on total expenditure.
+5.    Determined the best customer based on total expenditure.
 
-6    Retrieved email, first name, last name, and genre of all Rock Music listeners.
+6.    Retrieved email, first name, last name, and genre of all Rock Music listeners.
 
-7    Invited the artists who have written the most Rock music.
+7.    Invited the artists who have written the most Rock music.
 
-8    Listed tracks that have a song length longer than the average.
+8.    Listed tracks that have a song length longer than the average.
 
-9    Calculated the total amount spent by each customer on artists.
+9.    Calculated the total amount spent by each customer on artists.
 
-10   Identified the most popular music genre for each country.
+10.   Identified the most popular music genre for each country.
 
-11   Determined the highest spending customer in each country.
+11.   Determined the highest spending customer in each country.
 
 
 🔍 Results:
 
-    The most popular genre: Rock 🎸
+ 1.   The most popular genre: Rock 🎸
     
-    The most popular artist: AC/DC 🎤
+ 2.   The most popular artist: AC/DC 🎤
     
-    The longest song in the playlist: "How Many More Times" ⏳
+ 3.   The longest song in the playlist: "How Many More Times" ⏳
     
-    The average album price: $1 💵
+ 4.   The average album price: $1 💵
     
-    The top country for music purchases: United States 🇺🇸
+ 5.   The top country for music purchases: United States 🇺🇸
     
 
 📝  Conclusion:
