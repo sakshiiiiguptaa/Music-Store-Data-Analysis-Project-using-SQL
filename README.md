@@ -15,15 +15,25 @@ This project leverages SQL to analyze the dataset of an online music store. The 
 
 📂 Tables Utilized:
 ~ Album
+
 ~ Artist
+
 ~ Customer
+
 ~ Employee
+
 ~ Invoice
+
 ~ Genre
+
 ~ Invoice_line
+
 ~ Media_type
+
 ~ Playlist
+
 ~ Playlist_track
+
 ~ Track
 
 📋 Key Queries and Insights:
