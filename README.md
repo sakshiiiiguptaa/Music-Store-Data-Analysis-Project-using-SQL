@@ -14,6 +14,7 @@ This project leverages SQL to analyze the dataset of an online music store. The 
  5   Answer critical business questions to aid in strategic decision-making.
 
 📂 Tables Utilized:
+
 ~ Album
 
 ~ Artist
