@@ -60,12 +60,6 @@ This project leverages SQL to analyze the dataset of an online music store. The 
 
 8.    Listed tracks that have a song length longer than the average.
 
-9.    Calculated the total amount spent by each customer on artists.
-
-10.   Identified the most popular music genre for each country.
-
-11.   Determined the highest spending customer in each country.
-
 
 🔍 𝙍𝙚𝙨𝙪𝙡𝙩𝙨:
 
