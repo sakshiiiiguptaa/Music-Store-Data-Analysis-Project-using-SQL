@@ -4,7 +4,7 @@ This project uses SQL to analyze the dataset of an online music store.
 
 🔍 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙊𝙫𝙚𝙧𝙫𝙞𝙚𝙬:
 This project leverages SQL to analyze the dataset of an online music store. The aim is to derive actionable insights into the store's operations, including customer segmentation, trends, artist effectiveness and growth, customer interests, and expenditure patterns.
-
+___________________________________________________________________________________________________________________________
 📊 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙊𝙗𝙟𝙚𝙘𝙩𝙞𝙫𝙚𝙨:
 
  1.   Gain valuable insights into store operations.
@@ -16,7 +16,7 @@ This project leverages SQL to analyze the dataset of an online music store. The 
  4.   Identify trends and money spent by customers.
  
  5.   Answer critical business questions to aid in strategic decision-making.
- 
+ _________________________________________________________________________________________________________________________
 
 📂 𝙏𝙖𝙗𝙡𝙚𝙨 𝙐𝙩𝙞𝙡𝙞𝙯𝙚𝙙:
 
@@ -41,7 +41,7 @@ This project leverages SQL to analyze the dataset of an online music store. The 
 ~ Playlist_track
 
 ~ Track
-
+_____________________________________________________________________________________________________________________
 📋 𝙆𝙚𝙮 𝙌𝙪𝙚𝙧𝙞𝙚𝙨 𝙖𝙣𝙙 𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨:
 
 1.    Identified the senior-most employee based on job title.
@@ -60,7 +60,7 @@ This project leverages SQL to analyze the dataset of an online music store. The 
 
 8.    Listed tracks that have a song length longer than the average.
 
-
+____________________________________________________________________________________________________________________________
 🔍 𝙍𝙚𝙨𝙪𝙡𝙩𝙨:
 
  1.   The most popular genre: Rock 🎸
@@ -73,7 +73,7 @@ This project leverages SQL to analyze the dataset of an online music store. The 
     
  5.   The top country for music purchases: United States 🇺🇸
     
-
+_____________________________________________________________________________________________________________________________
 📝 𝘾𝙤𝙣𝙘𝙡𝙪𝙨𝙞𝙤𝙣:
 This SQL project provided valuable insights into the operations of an online music store, revealing key patterns in customer behavior, artist performance, and genre popularity. By analyzing data from various tables, I was able to identify critical trends that can aid in strategic decision-making, such as targeting specific customer segments, optimizing promotional efforts, and enhancing the store's offerings based on customer preferences.
 
